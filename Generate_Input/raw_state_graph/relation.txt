@@ -1,0 +1,50 @@
+Alabama Florida Georgia Mississippi Tennessee
+Arizona California Colorado Nevada NewMexico Utah 
+Arkansas Louisiana Mississippi Missouri Oklahoma Tennessee Texas
+California Arizona Nevada Oregon 
+Colorado Arizona Kansas Nebraska NewMexico Oklahoma Utah Wyoming 
+Connecticut Massachusetts NewYork RhodeIsland 
+Delaware Maryland NewJersey Pennsylvania 
+Florida Alabama Georgia
+Georgia Alabama Florida NorthCarolina SouthCarolina Tennessee 
+Idaho Montana Nevada Oregon Utah Washington Wyoming
+Illinois Indiana Iowa Michigan Kentucky Missouri Wisconsin
+Indiana Illinois Kentucky Michigan Ohio
+Iowa Illinois Minnesota Missouri Nebraska SouthDakota Wisconsin
+Kansas Colorado Missouri Nebraska Oklahoma
+Kentucky Illinois Indiana Missouri Ohio Tennessee Virginia WestVirginia 
+Louisiana Arkansas Mississippi Texas 
+Maine NewHampshire 
+Maryland Delaware Pennsylvania Virginia WestVirginia
+Massachusetts Connecticut NewHampshire NewYork RhodeIsland Vermont 
+Michigan Illinois Indiana Minnesota Ohio Wisconsin 
+Minnesota Iowa Michigan NorthDakota SouthDakota Wisconsin 
+Mississippi Alabama Arkansas Louisiana Tennessee
+Missouri Arkansas Illinois Iowa Kansas Kentucky Nebraska Oklahoma Tennessee
+Montana Idaho NorthDakota SouthDakota Wyoming
+Nebraska Colorado Iowa Kansas Missouri SouthDakota Wyoming
+Nevada Arizona California Idaho Oregon Utah 
+NewHampshire Maine Massachusetts Vermont 
+NewJersey Delaware NewYork Pennsylvania 
+NewMexico Arizona Colorado Oklahoma Texas Utah 
+NewYork Connecticut Massachusetts NewJersey Pennsylvania RhodeIsland Vermont
+NorthCarolina Georgia SouthCarolina Tennessee Virginia
+NorthDakota Minnesota Montana SouthDakota 
+Ohio Indiana Kentucky Michigan Pennsylvania WestVirginia 
+Oklahoma Arkansas Colorado Kansas Missouri NewMexico Texas
+Oregon California Idaho Nevada Washington
+Pennsylvania Delaware Maryland NewJersey NewYork Ohio WestVirginia
+RhodeIsland Connecticut Massachusetts NewYork 
+SouthCarolina Georgia NorthCarolina
+SouthDakota Iowa Minnesota Montana Nebraska NorthDakota Wyoming
+Tennessee Alabama Arkansas Georgia Kentucky Mississippi Missouri NorthCarolina Virginia
+Texas Arkansas Louisiana NewMexico Oklahoma
+Utah Arizona Colorado Idaho Nevada NewMexico Wyoming
+Vermont Massachusetts NewHampshire NewYork 
+Virginia Kentucky Maryland NorthCarolina Tennessee WestVirginia 
+Washington Idaho Oregon
+WestVirginia Kentucky Maryland Ohio Pennsylvania Virginia 
+Wisconsin Illinois Iowa Michigan Minnesota
+Wyoming Colorado Idaho Montana Nebraska SouthDakota Utah
+Alaska
+Hawaii

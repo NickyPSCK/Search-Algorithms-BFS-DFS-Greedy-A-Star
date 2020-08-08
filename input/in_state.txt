@@ -1,0 +1,49 @@
+Florida
+Alabama 285 Florida 285.2 Georgia 234.88 Mississippi 369.02 Tennessee 425.46
+Arizona 2636 California 1017.35 Colorado 942.69 Nevada 935.86 NewMexico 611.29 Utah 812.58
+Arkansas 892 Louisiana 488.58 Mississippi 333.05 Missouri 426.84 Oklahoma 480.52 Tennessee 526.9 Texas 710.55
+California 3500 Arizona 1017.35 Nevada 163.04 Oregon 720.6
+Colorado 2141 Arizona 942.69 Kansas 802.12 Nebraska 714.59 NewMexico 460.91 Oklahoma 808.6 Utah 596.94 Wyoming 157.14
+Connecticut 1630 Massachusetts 145.9 NewYork 134.64 RhodeIsland 104.22
+Delaware 1254 Maryland 86.71 NewJersey 135.04 Pennsylvania 168.77
+Florida 0 Alabama 285.2 Georgia 368.02
+Georgia 368 Alabama 234.88 Florida 368.02 NorthCarolina 570.9 SouthCarolina 310.85 Tennessee 345.09
+Idaho 3165 Montana 468.01 Nevada 575.36 Oregon 560.03 Utah 478.66 Washington 644.65 Wyoming 977.66
+Illinois 1147 Indiana 299.27 Iowa 390.43 Michigan 537.99 Kentucky 449.68 Missouri 256.9 Wisconsin 366.67
+Indiana 1052 Illinois 299.27 Kentucky 209.1 Michigan 353.49 Ohio 269.21
+Iowa 1495 Illinois 390.43 Minnesota 375.94 Missouri 356.99 Nebraska 269.89 SouthDakota 627.24 Wisconsin 385.28
+Kansas 1412 Colorado 802.12 Missouri 307.73 Nebraska 213.98 Oklahoma 427.94
+Kentucky 863 Illinois 449.68 Indiana 209.1 Missouri 639.75 Ohio 253.68 Tennessee 282.87 Virginia 653.76 WestVirginia 282.44
+Louisiana 658 Arkansas 488.58 Mississippi 225.19 Texas 634.43
+Maine 1999 NewHampshire 188.59
+Maryland 1183 Delaware 86.71 Pennsylvania 147.73 Virginia 179.99 WestVirginia 450.9
+Massachusetts 1763 Connecticut 145.9 NewHampshire 117.51 NewYork 230.82 RhodeIsland 56.19 Vermont 258.17
+Michigan 1366 Illinois 537.99 Indiana 353.49 Minnesota 728.02 Ohio 334.07 Wisconsin 395.8
+Minnesota 1787 Iowa 375.94 Michigan 728.02 NorthDakota 724.46 SouthDakota 576.27 Wisconsin 362.55
+Mississippi 600 Alabama 369.02 Arkansas 333.05 Louisiana 225.19 Tennessee 530.75
+Missouri 1157 Arkansas 426.84 Illinois 256.9 Iowa 356.99 Kansas 307.73 Kentucky 639.75 Nebraska 457.29 Oklahoma 585.74 Tennessee 547.46
+Montana 2982 Idaho 468.01 NorthDakota 876.11 SouthDakota 943.49 Wyoming 837.58
+Nebraska 1604 Colorado 714.59 Iowa 269.89 Kansas 213.98 Missouri 457.29 SouthDakota 496.23 Wyoming 682.99
+Nevada 3357 Arizona 935.86 California 163.04 Idaho 575.36 Oregon 696.13 Utah 692.8
+NewHampshire 1812 Maine 188.59 Massachusetts 117.51 Vermont 142.43
+NewJersey 1386 Delaware 135.04 NewYork 283.01 Pennsylvania 179.96
+NewMexico 2098 Arizona 611.29 Colorado 460.91 Oklahoma 762.42 Texas 972.94 Utah 766.6
+NewYork 1647 Connecticut 134.64 Massachusetts 230.82 NewJersey 283.01 Pennsylvania 370.22 RhodeIsland 215.31 Vermont 203.56
+NorthCarolina 790 Georgia 570.9 SouthCarolina 294.23 Tennessee 734.19 Virginia 223.01
+NorthDakota 2472 Minnesota 724.46 Montana 876.11 SouthDakota 495.46
+Ohio 1064 Indiana 269.21 Kentucky 253.68 Michigan 334.07 Pennsylvania 521.86 WestVirginia 214.61
+Oklahoma 1356 Arkansas 480.52 Colorado 808.6 Kansas 427.94 Missouri 585.74 NewMexico 762.42 Texas 580.3
+Oregon 3725 California 720.6 Idaho 560.03 Nevada 696.13 Washington 235.0
+Pennsylvania 1280 Delaware 168.77 Maryland 147.73 NewJersey 179.96 NewYork 370.22 Ohio 521.86 WestVirginia 461.58
+RhodeIsland 1708 Connecticut 104.22 Massachusetts 56.19 NewYork 215.31
+SouthCarolina 498 Georgia 310.85 NorthCarolina 294.23
+SouthDakota 2092 Iowa 627.24 Minnesota 576.27 Montana 943.49 Nebraska 496.23 NorthDakota 495.46 Wyoming 511.04
+Tennessee 677 Alabama 425.46 Arkansas 526.9 Georgia 345.09 Kentucky 282.87 Mississippi 530.75 Missouri 547.46 NorthCarolina 734.19 Virginia 843.21
+Texas 1293 Arkansas 710.55 Louisiana 634.43 NewMexico 972.94 Oklahoma 580.3
+Utah 2732 Arizona 812.58 Colorado 596.94 Idaho 478.66 Nevada 692.8 NewMexico 766.6 Wyoming 596.91
+Vermont 1848 Massachusetts 258.17 NewHampshire 142.43 NewYork 203.56
+Virginia 1007 Kentucky 653.76 Maryland 179.99 NorthCarolina 223.01 Tennessee 843.21 WestVirginia 376.82
+Washington 3771 Idaho 644.65 Oregon 235.0
+WestVirginia 911 Kentucky 282.44 Maryland 450.9 Ohio 214.61 Pennsylvania 461.58 Virginia 376.82
+Wisconsin 1475 Illinois 366.67 Iowa 385.28 Michigan 395.8 Minnesota 362.55
+Wyoming 2192 Colorado 157.14 Idaho 977.66 Montana 837.58 Nebraska 682.99 SouthDakota 511.04 Utah 596.91

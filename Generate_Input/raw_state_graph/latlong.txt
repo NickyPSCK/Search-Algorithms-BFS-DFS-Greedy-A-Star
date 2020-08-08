@@ -1,0 +1,51 @@
+﻿capital,state,state_no_space,Lat,Long
+Montgomery,Alabama,Alabama,32.361538,-86.279118
+Juneau,Alaska,Alaska,58.301935,-134.41974
+Phoenix,Arizona,Arizona,33.448457,-112.073844
+Little Rock,Arkansas,Arkansas,34.736009,-92.331122
+Sacramento,California,California,38.555605,-121.468926
+Denver,Colorado,Colorado,39.7391667,-104.984167
+Hartford,Connecticut,Connecticut,41.767,-72.677
+Dover,Delaware,Delaware,39.161921,-75.526755
+Tallahassee,Florida,Florida,30.4518,-84.27277
+Atlanta,Georgia,Georgia,33.76,-84.39
+Honolulu,Hawaii,Hawaii,21.30895,-157.826182
+Boise,Idaho,Idaho,43.613739,-116.237651
+Springfield,Illinois,Illinois,39.78325,-89.650373
+Indianapolis,Indiana,Indiana,39.790942,-86.147685
+Des Moines,Iowa,Iowa,41.590939,-93.620866
+Topeka,Kansas,Kansas,39.04,-95.69
+Frankfort,Kentucky,Kentucky,38.197274,-84.86311
+Baton Rouge,Louisiana,Louisiana,30.45809,-91.140229
+Augusta,Maine,Maine,44.323535,-69.765261
+Annapolis,Maryland,Maryland,38.972945,-76.501157
+Boston,Massachusetts,Massachusetts,42.2352,-71.0275
+Lansing,Michigan,Michigan,42.7335,-84.5467
+Saint Paul,Minnesota,Minnesota,44.95,-93.094
+Jackson,Mississippi,Mississippi,32.32,-90.207
+Jefferson City,Missouri,Missouri,38.572954,-92.189283
+Helena,Montana,Montana,46.595805,-112.027031
+Lincoln,Nebraska,Nebraska,40.809868,-96.675345
+Carson City,Nevada,Nevada,39.160949,-119.753877
+Concord,New Hampshire,NewHampshire,43.220093,-71.549127
+Trenton,New Jersey,NewJersey,40.221741,-74.756138
+Santa Fe,New Mexico,NewMexico,35.667231,-105.964575
+Albany,New York,NewYork,42.659829,-73.781339
+Raleigh,North Carolina,NorthCarolina,35.771,-78.638
+Bismarck,North Dakota,NorthDakota,48.813343,-100.779004
+Columbus,Ohio,Ohio,39.962245,-83.000647
+Oklahoma City,Oklahoma,Oklahoma,35.482309,-97.534994
+Salem,Oregon,Oregon,44.931109,-123.029159
+Harrisburg,Pennsylvania,Pennsylvania,40.269789,-76.875613
+Providence,Rhode Island,RhodeIsland,41.82355,-71.422132
+Columbia,South Carolina,SouthCarolina,34,-81.035
+Pierre,South Dakota,SouthDakota,44.367966,-100.336378
+Nashville,Tennessee,Tennessee,36.165,-86.784
+Austin,Texas,Texas,30.266667,-97.75
+Salt Lake City,Utah,Utah,40.7547,-111.892622
+Montpelier,Vermont,Vermont,44.26639,-72.57194
+Richmond,Virginia,Virginia,37.54,-77.46
+Olympia,Washington,Washington,47.042418,-122.893077
+Charleston,West Virginia,WestVirginia,38.349497,-81.633294
+Madison,Wisconsin,Wisconsin,43.074722,-89.384444
+Cheyenne,Wyoming,Wyoming,41.145548,-104.802042
